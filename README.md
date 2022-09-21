@@ -4,3 +4,4 @@
 ## 受賞
 hogehoge
 ## 学歴
+hogehoge
