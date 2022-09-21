@@ -1,4 +1,4 @@
-# Curriculum_vitae
+# Curriculum vitae
 ## 職務経歴
 ### hogehoge
 ## 受賞
